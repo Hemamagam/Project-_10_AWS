@@ -9,13 +9,13 @@
 
 ##### Objective: To build a custom OCR solution that extracts specific content from lab reports, such as test names, values, units, and reference ranges, converting them into editable files.
 ##### Goal: Convert lab report data into editable formats.
-##### Key Technologies: YOLOv3, Tesseract, AWS
+##### Key Technologies: YOLOv3, Tesseract,OpenCV, Fuzzywuzzy, AWS
 
 ### Model and Dataset
 
 ##### Model: Custom-trained YOLOv3 for object detection.
 ##### Dataset: Lab report images with labeled regions for OCR.
-##### Dataset Link: Drive Link
+##### Dataset Link: https://docs.google.com/document/d/1faS1owAT8EyTTMGtNSeiOLTH3HWEK_0kRSImuxKP2K0/edit 
 
 ### Key Workflow Breakdown
 
