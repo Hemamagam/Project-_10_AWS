@@ -1,5 +1,5 @@
-# Project _10_AWS
- Project _10_AWS
+# Project _10_OCR(Object Character Recognition)
+ Project _10_OCR
 
 ### Custom Object Character Recognition (OCR) with Flask using YOLOv3 and Tesseract
 
